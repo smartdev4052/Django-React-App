@@ -1,0 +1,17 @@
+
+# MacOS
+.DS_Store
+
+# Node
+node_modules
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea
+
+# generated files
+*.sqlite3
+leadmanager/frontend/static/frontend/main.js
